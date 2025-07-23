@@ -1,6 +1,6 @@
 # 🚓 Police Crime Data Mart – Advanced Databases Project
 
-This project was developed as part of the **Advanced Databases** module (Level 6, 2024/25), focusing on designing and implementing a complete **Data Mart (DM)** system using real-world techniques. The case study centers on analyzing police crime data to support decision-making and strategic reporting using business intelligence tools.
+This project was developed as part of the **Advanced Databases** module, focusing on designing and implementing a complete **Data Mart (DM)** system using real-world techniques. The case study centers on analyzing police crime data to support decision-making and strategic reporting using business intelligence tools.
 
 ---
 
@@ -76,9 +76,7 @@ A total of **15 reports** were built using:
 - Escalation pattern donut chart
 - Dynamic slicers for drill-down analysis
 
-> 📁 Screenshots available in `/dashboard/` folders by tool.
+> 📁 Screenshots available in `/reportViz/` folders by tool.
 
 ---
-
-## 📂 Project Structure
 
