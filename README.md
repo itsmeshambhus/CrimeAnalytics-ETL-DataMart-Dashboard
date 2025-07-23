@@ -13,6 +13,7 @@ The project aims to support the Police Force in identifying and analyzing **regi
 ## ⚙️ Project Workflow & Architecture
 
 ### 🔹 1. Star Schema Design
+
 - **Version 1**: Designed an ideal Star Schema using QSEE to support broad analytical needs.
 - **Version 2**: Adapted based on available data sources (PRCS, PS-Wales).
 - Schema includes:
@@ -56,25 +57,26 @@ A total of **15 reports** were built using:
 - **Tableau Dashboards** (5 reports)
 
 ### 🔸 Oracle APEX Reports
-- Crime count per station per year
-- Escalated vs non-escalated crimes
-- Crime type distribution by region
-- Station crime trend line chart
-- Yearly comparison of open vs closed cases
+- Crime Distribution by Station/Region
+- Top Crime Location Ranking
+- Crime Severity by Station/Region
+- Crime Type Concentration by Area
+- Crime Frequency by Station and Time Period
+  
 
 ### 🔸 Excel Pivot Reports
-- Year/month breakdown of crimes
-- Regional distribution heatmap
-- Closure rate summary
-- Average duration of crime cases
-- Multi-level filter by status, year, and station
+- Total Station by Resolved Crime
+- Crime type by region
+- Most Crime in Month
+- Total Crime by City
+- Repeated offence by station
 
 ### 🔸 Tableau Dashboards
-- Interactive crime heatmap by location
-- Crime trend (year-over-year)
-- Regional performance dashboard
-- Escalation pattern donut chart
-- Dynamic slicers for drill-down analysis
+- Police Station Comparison by Crime Types
+- Crime Resolution Efficiency by Region
+- Crime Trend Analysis
+- Crime Trends Over Time
+- Police Station Performance
 
 > 📁 Screenshots available in `/reportViz/` folders by tool.
 
